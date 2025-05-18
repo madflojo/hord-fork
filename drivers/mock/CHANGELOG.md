@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.6.5](https://github.com/madflojo/hord-fork/compare/drivers/mock/v0.6.4...drivers/mock/v0.6.5) (2025-05-18)
+
+
+### Bug Fixes
+
+* **config:** tidy up package names, say bye to changelogs ([#36](https://github.com/madflojo/hord-fork/issues/36)) ([a999e6d](https://github.com/madflojo/hord-fork/commit/a999e6d8a5c46cb0d8dcd445666f427581917c18))
+* **health:** standardize health check error handling ([#39](https://github.com/madflojo/hord-fork/issues/39)) ([bd5b979](https://github.com/madflojo/hord-fork/commit/bd5b979bfb81518dea703c9d79c9422556548d74))
+* **workflows:** update permissions for release-please ([#34](https://github.com/madflojo/hord-fork/issues/34)) ([143d4ea](https://github.com/madflojo/hord-fork/commit/143d4ea0d4a9db451fb92cdd2ff16e7fba8dfc6f))
+
 ## [0.6.4](https://github.com/tarmac-project/hord/compare/drivers/mock-v0.6.3...drivers/mock/v0.6.4) (2025-05-11)
 
 
